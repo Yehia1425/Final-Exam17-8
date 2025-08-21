@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Final_Exam17_8.Exam.Answer">
+    <Position X="13" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exam\Answer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Exam17_8.Exam.Exam">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAgUAAAACAAAAAAAAAQA=</HashCode>
+      <FileName>Exam\Exam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Exam17_8.Exam.FinalExam">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exam\FinalExam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Exam17_8.Exam.MCQQuestion">
+    <Position X="10.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exam\MCQQuestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Exam17_8.Exam.PracticalExam">
+    <Position X="3" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exam\PracticalExam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Exam17_8.Exam.Subject">
+    <Position X="13.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAABAAAQAACAAAAA=</HashCode>
+      <FileName>Exam\Subject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Exam17_8.Exam.TFQuestion">
+    <Position X="10.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exam\TFQuestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Exam17_8.Question">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAIAAADAAAAAAAAAABAQACAAAAAAAA=</HashCode>
+      <FileName>Question.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -60,7 +60,7 @@ namespace Final_Exam17_8.Exam
                     int type = int.Parse(Console.ReadLine() ?? "1");
                     Console.Clear();
 
-                    if (type == 1)
+                    if (type == 1) 
                     {
                         q = new TFQuestion(header, body, mark);
                         q.Answers = new Answer[2];

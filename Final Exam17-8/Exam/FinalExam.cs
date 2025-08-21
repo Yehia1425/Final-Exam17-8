@@ -11,6 +11,7 @@ namespace Final_Exam17_8.Exam
     {
         public FinalExam(int time, int numofquestions) : base(time, numofquestions)
         {
+            
         }
 
         public int TotalMarks()

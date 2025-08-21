@@ -7,16 +7,16 @@ namespace Final_Exam17_8
         static void Main(string[] args)
         {
 
-            Console.Write("Enter Id: ");
+            Console.Write("Enter Subject Id: ");
             int id = int.Parse(Console.ReadLine() ?? "0");
             Console.Clear();
 
-            Console.Write("Enter Name:");
-            string name = (Console.ReadLine() ?? "Guest");
+            Console.Write("Enter Subject Name:");
+            string name = (Console.ReadLine());
             
             Console.Clear();
 
-            Subject subject = new Subject(id, name??"Guest");
+            Subject subject = new Subject(id, name);
 
             subject.MoveExam();
 

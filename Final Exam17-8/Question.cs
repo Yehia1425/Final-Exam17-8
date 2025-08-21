@@ -29,7 +29,6 @@ namespace Final_Exam17_8
             Header = header;
             Body = body;
             Mark = mark;
-            Answers = new Answer[0];
         }
         #endregion
 
